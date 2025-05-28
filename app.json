@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.t1"
+      "bundleIdentifier": "com.zhukov.andrew.t1"
     },
     "android": {
       "adaptiveIcon": {
